@@ -1,0 +1,25 @@
+.prodsContainer {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.prodsName {
+    text-align: center;
+    color: black;
+}
+.prodsImg {
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+.prodsDetail {
+    text-align: center;
+    color: black;
+}
+.btnProds {
+    background-color: black;
+    color: white;
+}
+.container-button {
+    display: flex;
+    justify-content: center;
+}

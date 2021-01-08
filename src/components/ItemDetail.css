@@ -1,0 +1,28 @@
+.imgDetail {
+    height: 450px;
+    margin: auto;
+    display: block;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.containerDetail {
+    margin-top: 50px;
+    background-color: rgba(218, 218, 218, 0.795);
+    border-radius: 10px;
+}
+
+.titleDetail {
+    color: black;
+    text-align: center;
+}
+
+.textDetail {
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    text-align: center;
+    color: black
+}
+.priceDetail {
+    text-align: center;
+    font-size: 25px;
+}

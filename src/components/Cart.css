@@ -1,0 +1,23 @@
+.productContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px    
+}
+.DeleteImg {
+    height: 30px;
+    margin-right: 20px;
+}
+
+.boton1 {
+    margin-right: 20px;
+    background-color: cadetblue;
+    color: cornsilk;
+    border: none;
+}
+
+.boton {
+    margin-left: 20px;
+    background-color: cadetblue;
+    color: cornsilk;
+    border: none;
+}

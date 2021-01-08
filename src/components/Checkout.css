@@ -1,0 +1,14 @@
+.form-group {
+    margin-top: 20px;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+}
+
+.boton2{
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: slategrey;
+    border: none;
+    color: whitesmoke;
+}
